@@ -1,0 +1,42 @@
+.navbar-dark {
+	background-color: #1B3641!important;
+	min-height: 40px;  
+	width: 100%;
+}
+
+.navbar-light {
+	background-color: #FCFCFE!important;
+	width: 100%;
+}
+
+.btn-outline-dark {
+	color:  #1B3641;
+	border: 2px solid black;
+	border-color: #1B3641;
+	background-color: transparent;
+	margin-left:20px;
+	font-family: 'Roboto', bold;
+}
+
+.btn-outline-dark:hover{
+	background: #F05762;
+	border: 2px solid black;
+	border-color: #F05762;
+}
+
+h1{	
+	color: #1B3641!important;
+	font-family: 'Roboto';
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+ 
