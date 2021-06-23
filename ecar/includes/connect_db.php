@@ -6,7 +6,7 @@
  3. localhost is a hostname that refers to the current computer used to access it.
  4. root is the server username, usbw is the password and the site_db is the database name.
 */
-$link = mysqli_connect('localhost','HNDSOFTS2A40','wK35r5a96G','HNDSOFTS2A40');
+$link = mysqli_connect('localhost','******','*****','*******');
 
 #5. If username, password and database are correct, 'connection ok' will be displayed on screen.
 
